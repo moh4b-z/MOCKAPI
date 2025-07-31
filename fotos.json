@@ -1,0 +1,40 @@
+{
+  "fotos": [
+    {
+      "id": 1,
+      "imagem": "https://i.imgur.com/9YhvHpi.jpeg",
+      "legenda": "Fazendo o pessoal de eletro, olhar para tirar a foto comigo",
+      "data": "31/07/2025"
+    },
+    {
+      "id": 2,
+      "imagem": "https://i.imgur.com/umCTaks.jpeg",
+      "legenda": "Fazendo foto com todo mundo olhando, todo mundo parando os trabalhos para tirar foto",
+      "data": "31/07/2025"
+    },
+    {
+      "id": 3,
+      "imagem": "https://i.imgur.com/OPsCto5.jpeg",
+      "legenda": "Quem não saiu na foto quis sair também",
+      "data": "31/07/2025"
+    },
+    {
+      "id": 4,
+      "imagem": "https://i.imgur.com/RiepC5T.jpeg",
+      "legenda": "Muitas atrocidades ditas nesse local",
+      "data": "31/07/2025"
+    },
+    {
+      "id": 5,
+      "imagem": "https://i.imgur.com/otqN6UG.jpeg",
+      "legenda": "Todos os dias ganhando e perdendo aqui",
+      "data": "31/07/2025"
+    },
+    {
+      "id": 6,
+      "imagem": "https://i.imgur.com/puKPPRF.jpeg",
+      "legenda": "As mesas do RPG",
+      "data": "31/07/2025"
+    }
+  ]
+}
