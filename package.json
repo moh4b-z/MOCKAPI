@@ -2,7 +2,7 @@
   "name": "mockapi",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --watch fotos.json --port 3000"
+    "start": "json-server --watch fotos.json --port $PORT"
   },
   "dependencies": {
     "json-server": "^0.17.3"
