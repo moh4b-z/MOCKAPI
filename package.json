@@ -1,7 +1,6 @@
 {
   "name": "mockapi",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "start": "json-server --watch fotos.json --port 3000"
   },
